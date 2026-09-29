@@ -1,0 +1,50 @@
+# Папка информационной базы
+/db/
+
+# Временные файлы 1С
+*.log
+*.lgf
+*.lgp
+*.lgs
+*.lst
+*.tmp
+*.bak
+*.old
+
+# Служебный файл выгрузки
+ConfigDumpInfo.xml
+
+# Служебные папки 1С
+1cv8/
+1Cv8Log/
+1Cv8Temp/
+1Cv8Tmp/
+
+# Файлы баз данных
+*.1CD
+*.dt
+
+# Конфигурация и расширения 
+*.cf
+*.cfe
+
+# Внешние обработки 
+*.epf
+*.erf
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Резервные копии
+*.backup
+*.back
+*_backup
+*_back
+
+# Временные папки
+logs/
+temp/
+tmp/
+test/
