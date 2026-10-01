@@ -264,9 +264,13 @@
 			<Catalog>ЗоныКлуба</Catalog>
 			<Catalog>Услуги</Catalog>
 			<Catalog>ВидыАбонементов</Catalog>
+			<Document>ПродажаАбонемента</Document>
+			<Document>ЗаписьНаЗанятие</Document>
+			<Document>ОказаниеУслуги</Document>
+			<Document>Оплата</Document>
 			<Enum>ТипыУслуг</Enum>
 			<Enum>СтатусыПосещений</Enum>
-			<Enum>СпособыПосещений</Enum>
+			<Enum>СпособыРасчета</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
