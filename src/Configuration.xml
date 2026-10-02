@@ -271,6 +271,9 @@
 			<Enum>ТипыУслуг</Enum>
 			<Enum>СтатусыПосещений</Enum>
 			<Enum>СпособыРасчета</Enum>
+			<InformationRegister>ЦеныУслуг</InformationRegister>
+			<InformationRegister>ЦеныАбонементов</InformationRegister>
+			<InformationRegister>СрокиАбонементов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
