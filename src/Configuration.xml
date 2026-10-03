@@ -274,6 +274,8 @@
 			<InformationRegister>ЦеныУслуг</InformationRegister>
 			<InformationRegister>ЦеныАбонементов</InformationRegister>
 			<InformationRegister>СрокиАбонементов</InformationRegister>
+			<AccumulationRegister>ОстаткиПосещений</AccumulationRegister>
+			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
