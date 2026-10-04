@@ -261,9 +261,10 @@
 			<Language>Русский</Language>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Тренеры</Catalog>
-			<Catalog>ЗоныКлуба</Catalog>
 			<Catalog>Услуги</Catalog>
+			<Catalog>Абонементы</Catalog>
 			<Catalog>ВидыАбонементов</Catalog>
+			<Catalog>ЗоныКлуба</Catalog>
 			<Document>ПродажаАбонемента</Document>
 			<Document>ЗаписьНаЗанятие</Document>
 			<Document>ОказаниеУслуги</Document>
@@ -273,7 +274,6 @@
 			<Enum>СпособыРасчета</Enum>
 			<InformationRegister>ЦеныУслуг</InformationRegister>
 			<InformationRegister>ЦеныАбонементов</InformationRegister>
-			<InformationRegister>СрокиАбонементов</InformationRegister>
 			<AccumulationRegister>ОстаткиПосещений</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>

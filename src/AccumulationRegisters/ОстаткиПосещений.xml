@@ -129,16 +129,16 @@
 			</Dimension>
 			<Dimension uuid="09ebb200-3cbc-41a8-a54e-2a42591ebdac">
 				<Properties>
-					<Name>ПродажаАбонемента</Name>
+					<Name>Абонемент</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Продажа абонемента</v8:content>
+							<v8:content>Абонемент</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:DocumentRef.ПродажаАбонемента</v8:Type>
+						<v8:Type>cfg:CatalogRef.Абонементы</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
