@@ -4,9 +4,13 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Номер" id="1">
 			<DataPath>Объект.Number</DataPath>
+			<ReadOnly>true</ReadOnly>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НомерКонтекстноеМеню" id="2"/>
@@ -18,9 +22,6 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ДатаКонтекстноеМеню" id="6"/>
 			<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="7"/>
-			<Events>
-				<Event name="OnChange">ДатаПриИзменении</Event>
-			</Events>
 		</InputField>
 		<InputField name="Клиент" id="9">
 			<DataPath>Объект.Клиент</DataPath>
