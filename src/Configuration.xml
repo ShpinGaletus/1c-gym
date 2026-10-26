@@ -272,6 +272,9 @@
 			<Enum>ТипыУслуг</Enum>
 			<Enum>СтатусыПосещений</Enum>
 			<Enum>СпособыРасчета</Enum>
+			<Report>ОстаткиПосещений</Report>
+			<Report>АнализПродаж</Report>
+			<Report>НагрузкаТренеров</Report>
 			<InformationRegister>ЦеныУслуг</InformationRegister>
 			<InformationRegister>ЦеныАбонементов</InformationRegister>
 			<AccumulationRegister>ОстаткиПосещений</AccumulationRegister>
