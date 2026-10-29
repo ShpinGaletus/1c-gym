@@ -32,8 +32,13 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>Конфигурация</Name>
-			<Synonym/>
+			<Name>ФитнесКлуб</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Фитнес клуб</v8:content>
+				</v8:item>
+			</Synonym>
 			<Comment/>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_5_1</ConfigurationExtensionCompatibilityMode>
@@ -259,6 +264,14 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Ресепшен</Subsystem>
+			<Subsystem>Аналитика</Subsystem>
+			<Subsystem>Тренер</Subsystem>
+			<SessionParameter>ТекущийТренер</SessionParameter>
+			<Role>Администратор</Role>
+			<Role>Ресепшен</Role>
+			<Role>Директор</Role>
+			<Role>Тренер</Role>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Тренеры</Catalog>
 			<Catalog>Услуги</Catalog>

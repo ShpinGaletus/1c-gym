@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<SubsystemsOrder>
+		<Subsystem>Subsystem.Аналитика</Subsystem>
+		<Subsystem>Subsystem.Ресепшен</Subsystem>
+		<Subsystem>Subsystem.Тренер</Subsystem>
+		<Subsystem>59aefc2b-135c-4077-8ccf-c68f62c2bd7e</Subsystem>
+		<Subsystem>a14c050c-5bf6-4d8d-a99f-df93b507f092</Subsystem>
+	</SubsystemsOrder>
+</CommandInterface>
